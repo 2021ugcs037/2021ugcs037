@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2021ugcs037
-- 👀 I’m interested in coding and learning different languages 
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in web dev and learning different languages 
+- 🌱 I’m currently learning web dev  
 - 📫 you can mail me at 2021ugcs037@nitjsr.ac.in
 
 <!---
